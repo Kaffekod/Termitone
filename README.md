@@ -7,7 +7,7 @@
 - ASCII pitch bar visualization with real-time feedback
 - Median pitch smoothing for consistent readings  
 - Harmonic filtering to reduce false detections  
-- Fine-tune Termitone via a user-accessible config file—adjust pitch buffers, silence thresholds, etc.
+- Fine-tune Termitone via a user-accessible config file. Adjust pitch buffers, silence thresholds, etc.
 - Runs directly from the terminal without a GUI  
 
 ## Requirements
