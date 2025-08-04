@@ -79,7 +79,7 @@ Once Python is installed and the required packages are set up, you can launch Te
 To get started, clone the Termitone GitHub repository to your local machine. Open your terminal and run:
 
 ```bash
-git clone https://github.com/your-username/termitone.git
+git clone https://github.com/Kaffekod/Termitone.git
 cd termitone
 ```
 
