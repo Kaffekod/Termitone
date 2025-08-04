@@ -1,0 +1,23 @@
+[project]
+name = "termitone"
+version = "0.1.0"
+description = "Terminal-based guitar tuner"
+authors = [
+  { name = "Alex H, Kaffekod", email = "Kaffekod@gmail.com" }
+]
+requires-python = ">=3.7"
+dependencies = [
+  "numpy",
+  "aubio",
+  "sounddevice"
+]
+
+[tool.setuptools]
+py-modules = ["termitone", "termitone_cfg"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+termitone = "termitone:main"

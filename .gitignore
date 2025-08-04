@@ -1,0 +1,41 @@
+# Termitone .gitignore
+# Because your guitar isn’t the only thing that should stay in tune
+# Ignores compiled Python files, editors, and environments
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Python packaging
+Termitone.egg-info/
+
+# Environment variable files (keep secrets out of Git)
+*.env
+.env.*
+
+# Virtual environments
+venv/
+env/
+
+# OS/macOS artifacts
+.DS_Store
+
+# Editor configs
+.vscode/
+.idea/
+
+# Vim swap files
+*.swp
+*.swo
+*.swn
+
+# Vim backup files
+*.bak
+
+# Emacs autosave files
+*~
+# Emacs backup files
+.#*
+
+# Neovim
+.nv/
