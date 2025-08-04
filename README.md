@@ -86,7 +86,7 @@ python3 termitone.py
 
 And there you go, enjoy terminal-based guitar tuning!
 
-### How to use it?
+## How to use it?
 
 - Select a string from the menu to begin tuning.
 - Play the string and watch the pitch bar respond.
