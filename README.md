@@ -78,7 +78,7 @@ git clone https://github.com/your-username/termitone.git
 cd termitone
 ```
 
-If you cloned the GitHub repository or downloaded the application in another way, navigate to its folder and run Termitone:
+If you cloned the GitHub repository or downloaded the application in another way, navigate to its directory and run Termitone:
 ```bash
 cd termitone
 python3 termitone.py
