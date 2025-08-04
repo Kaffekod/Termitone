@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="logo/termitonelogo.png" alt="Termitone Logo">
+</p>
+
+
 # Termitone: Terminal-Based Guitar Tuner
 
 **Termitone** is a lightweight guitar tuner built for simplicity and accuracy straight from your terminal. It supports standard EADGBE tuning and gives live feedback using an ASCII pitch bar that tracks your tuning in real time. Whether you're on Linux, macOS, or Windows, Termitone delivers fast performance with minimal setup, powered by Python.
